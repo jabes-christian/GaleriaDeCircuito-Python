@@ -30,8 +30,8 @@ Este projeto é uma galeria interativa de circuitos elétricos, desenvolvida par
 
 ## ️ Requisitos
 
-* Python 3
-* <img src="https://img.shields.io/badge/Schemdraw-latest-brightgreen.svg" alt="Schemdraw Version">
+* Python
+* Schemdraw
 
 ##  Instalação
 
