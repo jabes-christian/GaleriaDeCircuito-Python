@@ -1,31 +1,39 @@
-# Galeria de Circuitos com Schemdraw
+<h1 align="center"> ⚡ Galeria de Circuitos com Schemdraw ⚡ </h1>
 
-Este projeto apresenta uma galeria de circuitos elétricos criados utilizandos na Documentação Oficil da biblioteca Schemdraw no ambiente Google Colab.
+<p align="center">
+  Uma coleção de diagramas esquemáticos de circuitos elétricos, criados com a poderosa biblioteca Schemdraw no Google Colab.
+</p>
 
-## Descrição
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue.svg" alt="Python Version">
+  <img src="https://img.shields.io/badge/Schemdraw-latest-brightgreen.svg" alt="Schemdraw Version">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+</p>
 
-O Schemdraw é um pacote Python poderoso e intuitivo para a criação de diagramas esquemáticos de circuitos elétricos de alta qualidade. Este projeto demonstra o uso do Schemdraw para gerar visualizações claras e profissionais de diversos circuitos.
+##  Descrição
 
-## Funcionalidades
+Este projeto é uma galeria interativa de circuitos elétricos, desenvolvida para demonstrar a versatilidade e a facilidade de uso do Schemdraw. Com Schemdraw, podemos criar diagramas de circuitos de alta qualidade diretamente no Python, de forma intuitiva e eficiente.
 
-* Criação de diagramas esquemáticos de circuitos elétricos.
-* Utilização da biblioteca Schemdraw para desenho intuitivo de componentes.
-* Geração de imagens de alta qualidade dos circuitos.
-* Exemplos de diversos tipos de circuitos.
+## ✨ Funcionalidades
 
-## Como Usar
+* Criação de diagramas esquemáticos de circuitos elétricos com alta qualidade visual.
+* Utilização da biblioteca Schemdraw para um desenho intuitivo e programático de componentes.
+* ️ Geração de imagens nítidas e profissionais dos circuitos.
+* Exemplos práticos de diversos tipos de circuitos, desde os mais simples até os mais complexos.
+
+##  Como Usar
 
 1.  **Abrir no Google Colab:** Clique no link do notebook Colab para abrir o projeto diretamente no seu navegador.
 2.  **Executar as Células:** Execute as células do notebook sequencialmente para gerar os diagramas dos circuitos.
-3.  **Visualizar os Diagramas:** Os diagramas serão exibidos diretamente no notebook Colab.
-4.  **Explorar e Modificar:** Sinta-se à vontade para modificar o código e criar seus próprios diagramas de circuitos.
+3.  **Visualizar os Diagramas:** Os diagramas serão exibidos diretamente no notebook Colab, prontos para análise e estudo.
+4.  **Explorar e Modificar:** Sinta-se à vontade para modificar o código, experimentar com diferentes componentes e criar seus próprios diagramas de circuitos personalizados.
 
-## Requisitos
+## ️ Requisitos
 
 * Python 3
-* Schemdraw
+* <img src="https://img.shields.io/badge/Schemdraw-latest-brightgreen.svg" alt="Schemdraw Version">
 
-## Instalação
+##  Instalação
 
 Para instalar o Schemdraw no Google Colab, execute a seguinte célula no notebook:
 
